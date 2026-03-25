@@ -35,7 +35,7 @@ const TaskCard = ({ task }: Props) => {
         >
             <h3>{task.title}</h3>
             <p>
-                Статус: {isCompleted ? "✅ Completed" : "⏳ In Progress"}
+                Статус: {isCompleted ? "Completed" : "In Progress"}
             </p>
         </div>
     );
