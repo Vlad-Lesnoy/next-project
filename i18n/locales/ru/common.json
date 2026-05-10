@@ -1,0 +1,20 @@
+{
+  "register": "Регистрация",
+  "username": "Имя пользователя",
+  "email": "Электронная почта",
+  "age": "Возраст",
+  "password": "Пароль",
+  "confirmPassword": "Подтвердите пароль",
+  "submit": "Зарегистрироваться",
+  "posts": "Посты",
+  "createPost": "Создать пост",
+  "title": "Заголовок",
+  "body": "Текст",
+  "create": "Создать",
+  "currentTime": "Текущее время",
+  "welcome": "Добро пожаловать, {{name}}!",
+  "items_one": "{{count}} товар",
+  "items_few": "{{count}} товара",
+  "items_many": "{{count}} товаров",
+  "description": "Это <1>многоязычный</1> сайт"
+}

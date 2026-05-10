@@ -1,0 +1,19 @@
+{
+  "register": "Registration",
+  "username": "Username",
+  "email": "Email",
+  "age": "Age",
+  "password": "Password",
+  "confirmPassword": "Confirm password",
+  "submit": "Register",
+  "posts": "Posts",
+  "createPost": "Create post",
+  "title": "Title",
+  "body": "Body",
+  "create": "Create",
+  "currentTime": "Current time",
+  "welcome": "Welcome, {{name}}!",
+  "items_one": "{{count}} item",
+  "items_other": "{{count}} items",
+  "description": "This is a <1>multilingual</1> website"
+}

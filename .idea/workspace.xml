@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="cfc5e338-3ec8-4d9a-8538-9eb04bf5d024" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/posts/[id]/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/posts/create/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/posts/create/use-server.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/posts/page.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -46,6 +49,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Влад Лесной\my-next-app\app\[lang]" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.Next.js: server-side">
     <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
       <method v="2" />
@@ -89,7 +97,8 @@
       <workItem from="1776231030432" duration="952000" />
       <workItem from="1776797959645" duration="1642000" />
       <workItem from="1777394576942" duration="549000" />
-      <workItem from="1778044607849" duration="2544000" />
+      <workItem from="1778044607849" duration="3117000" />
+      <workItem from="1778451411385" duration="4161000" />
     </task>
     <servers />
   </component>
