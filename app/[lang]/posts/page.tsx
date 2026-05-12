@@ -1,18 +1,14 @@
-"use client";
-
 import "@/i18n/client";
+import { getT } from "@/i18n/server";
 import Link from "next/link";
-import { useParams } from "next/navigation";
-import { useTranslation } from "react-i18next";
 
-const PostsPage = () => {
+export default async function PostsPage({params}: {params: { lang: string };}) {
+
     const date = new Date().toISOString();
 
-    const params = useParams();
+    const { lang } = await params;
 
-    const lang = params.lang as string;
-
-    const { t } = useTranslation();
+    const { t } = await getT(lang);
     return (
         <div className="card text-center space-y-4">
             <h1 className="title">{t("posts")}</h1>
@@ -31,4 +27,3 @@ const PostsPage = () => {
     );
 }
 
-export default PostsPage;

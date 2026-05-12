@@ -58,7 +58,7 @@ export default function RegisterPage() {
         i18nKey="description"
         components={[<strong key="strong" />]}
     />
-
+            <p>{t("welcome")}</p>
             <p></p>
 
     <input

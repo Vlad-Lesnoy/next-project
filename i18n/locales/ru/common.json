@@ -12,7 +12,7 @@
   "body": "Текст",
   "create": "Создать",
   "currentTime": "Текущее время",
-  "welcome": "Добро пожаловать, {{name}}!",
+  "welcome": "Добро пожаловать!",
   "items_one": "{{count}} товар",
   "items_few": "{{count}} товара",
   "items_many": "{{count}} товаров",

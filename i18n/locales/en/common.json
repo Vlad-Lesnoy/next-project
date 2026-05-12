@@ -12,7 +12,7 @@
   "body": "Body",
   "create": "Create",
   "currentTime": "Current time",
-  "welcome": "Welcome, {{name}}!",
+  "welcome": "Welcome!",
   "items_one": "{{count}} item",
   "items_other": "{{count}} items",
   "description": "This is a <1>multilingual</1> website"
